@@ -1,0 +1,656 @@
+[{  
+   "address":"Restoroute de Lavaux Autogrill Suisse, Chemin de Jordillon 140, 1091 Aran, Switzerland",
+   "city":"Aran",
+   "country":"Switzerland",
+   "description":"Well-known fast-food chain serving grilled burgers, fries & shakes, plus breakfast",
+   "property_images":[  
+      "https://burgerkingg.s3.eu-central-1.amazonaws.com/burgerkingimage/1561030359.19055.jpg"
+   ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
+   "pincode":1091,
+   "title":"Burger King",
+   "contact":"+41 21 796 12 70",
+   "latitude":46.504991,
+   "longitude":6.7076203
+},
+{  
+   "address":"Zurich Airport, Frachtstrasse, 8060 Kloten, Switzerland",
+   "city":"Kloten",
+   "country":"Switzerland",
+   "description":"Well-known fast-food chain serving grilled burgers, fries & shakes, plus breakfast",
+   "property_images":[  
+      "https://burgerkingg.s3.eu-central-1.amazonaws.com/burgerkingimage/1561030359.19055.jpg"
+   ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
+   "pincode":8060,
+   "title":"Burger King",
+   "contact":"+41 43 816 85 98",
+   "latitude":47.4189572,
+   "longitude":8.508833
+},
+{  
+   "address":"Place de la Gare 9, 1260 Nyon, Switzerland",
+   "city":"Nyon",
+   "country":"Switzerland",
+   "description":"Well-known fast-food chain serving grilled burgers, fries & shakes, plus breakfast",
+   "property_images":[  
+      "https://burgerkingg.s3.eu-central-1.amazonaws.com/burgerkingimage/1561030359.19055.jpg"
+   ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
+   "pincode":1260,
+   "title":"Burger King",
+   "contact":"+41 22 361 04 73",
+   "latitude":46.384223,
+   "longitude":6.2343353
+},
+{  
+   "address":"Hirschlistrasse 3, 5400 Baden, Switzerland",
+   "city":"Baden",
+   "country":"Switzerland",
+   "description":"Well-known fast-food chain serving grilled burgers, fries & shakes, plus breakfast",
+   "property_images":[  
+      "https://burgerkingg.s3.eu-central-1.amazonaws.com/burgerkingimage/1561030359.19055.jpg"
+   ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
+   "pincode":5400,
+   "title":"Burger King",
+   "contact":"+41 56 210 07 84",
+   "latitude":47.4744918,
+   "longitude":8.3052756
+},
+{  
+   "address":"Bahnhofpl. 15, 8001 Zürich, Switzerland",
+   "city":"Zürich",
+   "country":"Switzerland",
+   "description":"Well-known fast-food chain serving grilled burgers, fries & shakes, plus breakfast",
+   "property_images":[  
+      "https://burgerkingg.s3.eu-central-1.amazonaws.com/burgerkingimage/1561030359.19055.jpg"
+   ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
+   "pincode":8001,
+   "title":"Burger King",
+   "contact":"+41 44 217 15 15",
+   "latitude":47.377439,
+   "longitude":8.538775
+},
+{  
+   "address":"Flüelerstrasse 152, 6460 Altdorf, Switzerland",
+   "city":"Altdorf",
+   "country":"Switzerland",
+   "description":"Well-known fast-food chain serving grilled burgers, fries & shakes, plus breakfast",
+   "property_images":[  
+      "https://burgerkingg.s3.eu-central-1.amazonaws.com/burgerkingimage/1561030359.19055.jpg"
+   ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
+   "pincode":6460,
+   "title":"Burger King",
+   "contact":"+41 41 871 45 45",
+   "latitude":46.895825,
+   "longitude":8.6245795
+},
+{  
+   "address":"Bahnhofstrasse 1, 2502 Biel, Switzerland",
+   "city":"Biel",
+   "country":"Switzerland",
+   "description":"Well-known fast-food chain serving grilled burgers, fries & shakes, plus breakfast",
+   "property_images":[  
+      "https://burgerkingg.s3.eu-central-1.amazonaws.com/burgerkingimage/1561030359.19055.jpg"
+   ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
+   "pincode":2502,
+   "title":"Burger King",
+   "contact":"+41 32 322 64 75",
+   "latitude":47.1336381,
+   "longitude":7.241052
+},
+{  
+   "address":"Place de Cornavin 3, 1211 Genève, Switzerland",
+   "city":"Genève",
+   "country":"Switzerland",
+   "description":"Well-known fast-food chain serving grilled burgers, fries & shakes, plus breakfast",
+   "property_images":[  
+      "https://burgerkingg.s3.eu-central-1.amazonaws.com/burgerkingimage/1561030359.19055.jpg"
+   ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
+   "pincode":1211,
+   "title":"Burger King Gare Cornavin",
+   "contact":"+41 22 906 11 15",
+   "latitude":47.459938,
+   "longitude":9.0914742
+},
+{  
+   "address":"Zürichstrasse 82, 8620 Wetzikon, Switzerland",
+   "city":"Wetzikon",
+   "country":"Switzerland",
+   "description":"Well-known fast-food chain serving grilled burgers, fries & shakes, plus breakfast",
+   "property_images":[  
+      "https://burgerkingg.s3.eu-central-1.amazonaws.com/burgerkingimage/1561030359.19055.jpg"
+   ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
+   "pincode":8620,
+   "title":"Burger King Wetzikon",
+   "contact":"+41 43 443 13 00",
+   "latitude":47.3275348,
+   "longitude":8.7807782
+},
+{  
+   "address":"Piazza Alessandro Manzoni, 6900 Lugano, Switzerland",
+   "city":"Lugano",
+   "country":"Switzerland",
+   "description":"Well-known fast-food chain serving grilled burgers, fries & shakes, plus breakfast",
+   "property_images":[  
+      "https://burgerkingg.s3.eu-central-1.amazonaws.com/burgerkingimage/1561030359.19055.jpg"
+   ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
+   "pincode":6900,
+   "title":"Burger King",
+   "contact":"+41 91 922 76 81",
+   "latitude":46.0032395,
+   "longitude":8.9493382
+},
+{  
+   "address":"Hauserstrasse 2, 5242 Lupfig, Switzerland",
+   "city":"Lupfig",
+   "country":"Switzerland",
+   "description":"Well-known fast-food chain serving grilled burgers, fries & shakes, plus breakfast",
+   "property_images":[  
+      "https://burgerkingg.s3.eu-central-1.amazonaws.com/burgerkingimage/1561030359.19055.jpg"
+   ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
+   "pincode":5242,
+   "title":"Burger King",
+   "contact":"+41 56 450 04 04",
+   "latitude":47.4505397,
+   "longitude":8.2123789
+},
+{  
+   "address":"Wässeristrasse 22, 8340 Hinwil, Switzerland",
+   "city":"Hinwil",
+   "country":"Switzerland",
+   "description":"Well-known fast-food chain serving grilled burgers, fries & shakes, plus breakfast",
+   "property_images":[  
+      "https://burgerkingg.s3.eu-central-1.amazonaws.com/burgerkingimage/1561030359.19055.jpg"
+   ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
+   "pincode":8340,
+   "title":"Burger King",
+   "contact":"+41 43 843 71 51",
+   "latitude":47.305382,
+   "longitude":8.8221023
+},
+{  
+   "address":"Zürcherstrasse 288, 8500 Frauenfeld, Switzerland",
+   "city":"Frauenfeld",
+   "country":"Switzerland",
+   "description":"Well-known fast-food chain serving grilled burgers, fries & shakes, plus breakfast",
+   "property_images":[  
+      "https://burgerkingg.s3.eu-central-1.amazonaws.com/burgerkingimage/1561030359.19055.jpg"
+   ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
+   "pincode":8500,
+   "title":"Burger King",
+   "contact":"+41 52 720 33 05",
+   "latitude":47.5630022,
+   "longitude":8.9059647
+},
+{  
+   "address":"Sihlquai Passage, Zollstrasse 1, 8005 Zürich, Switzerland",
+   "city":"Zürich",
+   "country":"Switzerland",
+   "description":"Well-known fast-food chain serving grilled burgers, fries & shakes, plus breakfast",
+   "property_images":[  
+      "https://burgerkingg.s3.eu-central-1.amazonaws.com/burgerkingimage/1561030359.19055.jpg"
+   ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
+   "pincode":8005,
+   "title":"Burger King",
+   "contact":"+41 44 217 15 81",
+   "latitude":47.3795819,
+   "longitude":8.5349872
+},
+{  
+   "address":"Lagerstrasse 1, 8004 Zürich, Switzerland",
+   "city":"Zürich",
+   "country":"Switzerland",
+   "description":"Well-known fast-food chain serving grilled burgers, fries & shakes, plus breakfast",
+   "property_images":[  
+      "https://burgerkingg.s3.eu-central-1.amazonaws.com/burgerkingimage/1561030359.19055.jpg"
+   ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
+   "pincode":8004,
+   "title":"Burger King",
+   "contact":"+41 44 217 15 15",
+   "latitude":47.3765141,
+   "longitude":8.5322437
+},
+{  
+   "address":"Obermattstrasse 5, 8805 Richterswil, Switzerland",
+   "city":"Richterswil",
+   "country":"Switzerland",
+   "description":"Well-known fast-food chain serving grilled burgers, fries & shakes, plus breakfast",
+   "property_images":[  
+      "https://burgerkingg.s3.eu-central-1.amazonaws.com/burgerkingimage/1561030359.19055.jpg"
+   ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
+   "pincode":8805,
+   "title":"Burger King",
+   "contact":"+41 44 687 33 50",
+   "latitude":47.203652,
+   "longitude":8.6824023
+},
+{  
+   "address":"Bernstrasse 134, 3613 Steffisburg, Switzerland",
+   "city":"Steffisburg",
+   "country":"Switzerland",
+   "description":"Well-known fast-food chain serving grilled burgers, fries & shakes, plus breakfast",
+   "property_images":[  
+      "https://burgerkingg.s3.eu-central-1.amazonaws.com/burgerkingimage/1561030359.19055.jpg"
+   ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
+   "pincode":3613,
+   "title":"Burger King",
+   "contact":"+41 33 439 01 50",
+   "latitude":46.7732435,
+   "longitude":7.6153933
+},
+{  
+   "address":"Riedmattstrasse 10, 8153 Rümlang, Switzerland",
+   "city":"Rümlang",
+   "country":"Switzerland",
+   "description":"Well-known fast-food chain serving grilled burgers, fries & shakes, plus breakfast",
+   "property_images":[  
+      "https://burgerkingg.s3.eu-central-1.amazonaws.com/burgerkingimage/1561030359.19055.jpg"
+   ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
+   "pincode":8153,
+   "title":"Burger King Rümlang",
+   "contact":"+41 43 810 88 08",
+   "latitude":47.461411,
+   "longitude":8.5213663
+},
+{  
+   "address":"Neue Aarburgerstrasse 2a, 4852 Rothrist, Switzerland",
+   "city":"Rothrist",
+   "country":"Switzerland",
+   "description":"Well-known fast-food chain serving grilled burgers, fries & shakes, plus breakfast",
+   "property_images":[  
+      "https://burgerkingg.s3.eu-central-1.amazonaws.com/burgerkingimage/1561030359.19055.jpg"
+   ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
+   "pincode":4852,
+   "title":"Burger King",
+   "contact":"+41 62 794 02 02",
+   "latitude":47.3137968,
+   "longitude":7.8918472
+},
+{  
+   "address":"Zurich Airport, Frachtstrasse, 8060 Kloten, Switzerland",
+   "city":"Kloten",
+   "country":"Switzerland",
+   "description":"Well-known fast-food chain serving grilled burgers, fries & shakes, plus breakfast",
+   "property_images":[  
+      "https://burgerkingg.s3.eu-central-1.amazonaws.com/burgerkingimage/1561030359.19055.jpg"
+   ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
+   "pincode":8060,
+   "title":"Burger King",
+   "contact":"+41 43 816 85 98",
+   "latitude":47.5129069,
+   "longitude":8.3586854
+},
+{  
+   "address":"Bernstrasse 50, A, 3422 Rüdtligen-Alchenflüh, Switzerland",
+   "city":"Rüdtligen-Alchenflüh",
+   "country":"Switzerland",
+   "description":"Well-known fast-food chain serving grilled burgers, fries & shakes, plus breakfast",
+   "property_images":[  
+      "https://burgerkingg.s3.eu-central-1.amazonaws.com/burgerkingimage/1561030359.19055.jpg"
+   ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
+   "pincode":3422,
+   "title":"Burger King",
+   "contact":"+41 34 445 63 41",
+   "latitude":47.0778676,
+   "longitude":7.5722069
+},
+{  
+   "address":"Steinenvorstadt 51, 4051 Basel, Switzerland",
+   "city":"Basel",
+   "country":"Switzerland",
+   "description":"Well-known fast-food chain serving grilled burgers, fries & shakes, plus breakfast",
+   "property_images":[  
+      "https://burgerkingg.s3.eu-central-1.amazonaws.com/burgerkingimage/1561030359.19055.jpg"
+   ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
+   "pincode":4051,
+   "title":"Burger King",
+   "contact":"+41 61 500 55 60",
+   "latitude":47.5526261,
+   "longitude":7.5864085
+},
+{  
+   "address":"Rotzlochstrasse 1a, 6370 Stans, Switzerland",
+   "city":"Stans",
+   "country":"Switzerland",
+   "description":"Well-known fast-food chain serving grilled burgers, fries & shakes, plus breakfast",
+   "property_images":[  
+      "https://burgerkingg.s3.eu-central-1.amazonaws.com/burgerkingimage/1561030359.19055.jpg"
+   ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
+   "pincode":6370,
+   "title":"Burger King",
+   "contact":"+41 41 612 13 20",
+   "latitude":46.9660493,
+   "longitude":8.3511678
+},
+{  
+   "address":"Hauptstrasse 14, 5502 Hunzenschwil, Switzerland",
+   "city":"Hunzenschwil",
+   "country":"Switzerland",
+   "description":"Well-known fast-food chain serving grilled burgers, fries & shakes, plus breakfast",
+   "property_images":[  
+      "https://burgerkingg.s3.eu-central-1.amazonaws.com/burgerkingimage/1561030359.19055.jpg"
+   ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
+   "pincode":5502,
+   "title":"Burger King",
+   "contact":"+41 62 897 65 65",
+   "latitude":47.3868953,
+   "longitude":8.1289387
+},
+{  
+   "address":"Genfergasse 4, 3011 Bern, Switzerland",
+   "city":"Bern",
+   "country":"Switzerland",
+   "description":"Well-known fast-food chain serving grilled burgers, fries & shakes, plus breakfast",
+   "property_images":[  
+      "https://burgerkingg.s3.eu-central-1.amazonaws.com/burgerkingimage/1561030359.19055.jpg"
+   ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
+   "pincode":3011,
+   "title":"Burger King",
+   "contact":"+41 31 310 14 40",
+   "latitude":46.9492467,
+   "longitude":7.43876
+},
+{  
+   "address":"Industriestrasse 2b, 6280 Hochdorf, Switzerland",
+   "city":"Hochdorf",
+   "country":"Switzerland",
+   "description":"Well-known fast-food chain serving grilled burgers, fries & shakes, plus breakfast",
+   "property_images":[  
+      "https://burgerkingg.s3.eu-central-1.amazonaws.com/burgerkingimage/1561030359.19055.jpg"
+   ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
+   "pincode":6280,
+   "title":"Burger King",
+   "contact":"+41 41 622 02 06",
+   "latitude":47.1651694,
+   "longitude":8.2821199
+},
+{  
+   "address":"Schlosstalstrasse 1, 8406 Winterthur, Switzerland",
+   "city":"Winterthur",
+   "country":"Switzerland",
+   "description":"Well-known fast-food chain serving grilled burgers, fries & shakes, plus breakfast",
+   "property_images":[  
+      "https://burgerkingg.s3.eu-central-1.amazonaws.com/burgerkingimage/1561030359.19055.jpg"
+   ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
+   "pincode":8406,
+   "title":"Burger King",
+   "contact":"+41 52 202 89 28",
+   "latitude":47.4929451,
+   "longitude":8.7061442
+},
+{  
+   "address":"Müslistrasse 44, 8957 Spreitenbach, Switzerland",
+   "city":"Spreitenbach",
+   "country":"Switzerland",
+   "description":"Well-known fast-food chain serving grilled burgers, fries & shakes, plus breakfast",
+   "property_images":[  
+      "https://burgerkingg.s3.eu-central-1.amazonaws.com/burgerkingimage/1561030359.19055.jpg"
+   ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
+   "pincode":8957,
+   "title":"Burger King",
+   "contact":"+41 56 410 19 45",
+   "latitude":47.419482,
+   "longitude":8.3748181
+},
+{  
+   "address":"Zentralstrasse 3, 6003 Luzern, Switzerland",
+   "city":"Luzern",
+   "country":"Switzerland",
+   "description":"Well-known fast-food chain serving grilled burgers, fries & shakes, plus breakfast",
+   "property_images":[  
+      "https://burgerkingg.s3.eu-central-1.amazonaws.com/burgerkingimage/1561030359.19055.jpg"
+   ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
+   "pincode":6003,
+   "title":"Burger King",
+   "contact":"+41 41 210 15 08",
+   "latitude":47.0498772,
+   "longitude":8.3073727
+},
+{  
+   "address":"Gare de Fribourg, Avenue de la Gare 1, 1700 Fribourg, Switzerland",
+   "city":"Fribourg",
+   "country":"Switzerland",
+   "description":"Well-known fast-food chain serving grilled burgers, fries & shakes, plus breakfast",
+   "property_images":[  
+      "https://burgerkingg.s3.eu-central-1.amazonaws.com/burgerkingimage/1561030359.19055.jpg"
+   ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
+   "pincode":1700,
+   "title":"Burger King Fribourg",
+   "contact":"+41 26 321 37 97",
+   "latitude":46.8033092,
+   "longitude":7.1491307
+},
+{  
+   "address":"Richtstrasse 4, 7000 Chur, Switzerland",
+   "city":"Chur",
+   "country":"Switzerland",
+   "description":"Well-known fast-food chain serving grilled burgers, fries & shakes, plus breakfast",
+   "property_images":[  
+      "https://burgerkingg.s3.eu-central-1.amazonaws.com/burgerkingimage/1561030359.19055.jpg"
+   ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
+   "pincode":7000,
+   "title":"Burger King",
+   "contact":"+41 81 252 18 81",
+   "latitude":46.845841,
+   "longitude":9.5072023
+},
+{  
+   "address":"Baarerstrasse 25, 6300 Zug, Switzerland",
+   "city":"Zug",
+   "country":"Switzerland",
+   "description":"Well-known fast-food chain serving grilled burgers, fries & shakes, plus breakfast",
+   "property_images":[  
+      "https://burgerkingg.s3.eu-central-1.amazonaws.com/burgerkingimage/1561030359.19055.jpg"
+   ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
+   "pincode":6300,
+   "title":"Burger King",
+   "contact":"+41 41 541 51 07",
+   "latitude":47.1729832,
+   "longitude":8.5142375
+},
+{  
+   "address":"Tschachen 2, 8867 Ziegelbrücke, Switzerland",
+   "city":"Ziegelbrücke",
+   "country":"Switzerland",
+   "description":"Well-known fast-food chain serving grilled burgers, fries & shakes, plus breakfast",
+   "property_images":[  
+      "https://burgerkingg.s3.eu-central-1.amazonaws.com/burgerkingimage/1561030359.19055.jpg"
+   ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
+   "pincode":8867,
+   "title":"Burger King",
+   "contact":"+41 55 617 41 02",
+   "latitude":47.1378258,
+   "longitude":9.0485152
+},
+{  
+   "address":"Götzisbodenweg 22, 4133 Pratteln, Switzerland",
+   "city":"Pratteln",
+   "country":"Switzerland",
+   "description":"Well-known fast-food chain serving grilled burgers, fries & shakes, plus breakfast",
+   "property_images":[  
+      "https://burgerkingg.s3.eu-central-1.amazonaws.com/burgerkingimage/1561030359.19055.jpg"
+   ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
+   "pincode":4133,
+   "title":"Burger King",
+   "contact":"+41 61 827 57 00",
+   "latitude":47.5271131,
+   "longitude":7.6983905
+},
+{  
+   "address":"Centralbahnpl. 10, 4051 Basel, Switzerland",
+   "city":"Basel",
+   "country":"Switzerland",
+   "description":"Well-known fast-food chain serving grilled burgers, fries & shakes, plus breakfast",
+   "property_images":[  
+      "https://burgerkingg.s3.eu-central-1.amazonaws.com/burgerkingimage/1561030359.19055.jpg"
+   ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
+   "pincode":4051,
+   "title":"Burger King",
+   "contact":"+41 61 272 21 80",
+   "latitude":47.5504124,
+   "longitude":7.5869502
+},
+{  
+   "address":"Rue du Grand-Pont 10, 1003 Lausanne, Switzerland",
+   "city":"Lausanne",
+   "country":"Switzerland",
+   "description":"Well-known fast-food chain serving grilled burgers, fries & shakes, plus breakfast",
+   "property_images":[  
+      "https://burgerkingg.s3.eu-central-1.amazonaws.com/burgerkingimage/1561030359.19055.jpg"
+   ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
+   "pincode":1003,
+   "title":"Burger King Lausanne",
+   "contact":"+41 21 312 33 37",
+   "latitude":46.5216187,
+   "longitude":6.6281512
+},
+{  
+   "address":"Cilanderstrasse 6A, 9100 Herisau, Switzerland",
+   "city":"Herisau",
+   "country":"Switzerland",
+   "description":"Well-known fast-food chain serving grilled burgers, fries & shakes, plus breakfast",
+   "property_images":[  
+      "https://burgerkingg.s3.eu-central-1.amazonaws.com/burgerkingimage/1561030359.19055.jpg"
+   ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
+   "pincode":9100,
+   "title":"Burger King",
+   "contact":"+41 71 351 39 31",
+   "latitude":47.3857939,
+   "longitude":9.2725122
+},
+{  
+   "address":"Centre commercial Planète Charmilles, Prom. de l'Europe 11, 1211 Geneva, Switzerland",
+   "city":"Geneva",
+   "country":"Switzerland",
+   "description":"Well-known fast-food chain serving grilled burgers, fries & shakes, plus breakfast",
+   "property_images":[  
+      "https://burgerkingg.s3.eu-central-1.amazonaws.com/burgerkingimage/1561030359.19055.jpg"
+   ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
+   "pincode":1211,
+   "title":"Burger King Planète Charmilles",
+   "contact":"+41 22 949 77 90",
+   "latitude":46.2087877,
+   "longitude":6.1210393
+},
+{  
+   "address":"Raststätte Münsingen West, 3110 Münsingen, Switzerland",
+   "city":"Münsingen",
+   "country":"Switzerland",
+   "description":"Well-known fast-food chain serving grilled burgers, fries & shakes, plus breakfast",
+   "property_images":[  
+      "https://burgerkingg.s3.eu-central-1.amazonaws.com/burgerkingimage/1561030359.19055.jpg"
+   ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
+   "pincode":3110,
+   "title":"Burger King",
+   "contact":"+41 31 721 36 36",
+   "latitude":46.8776406,
+   "longitude":7.5395275
+},
+{  
+   "address":"Restoroute Relais de la Cote, A1, 1183 Bursins, Switzerland",
+   "city":"Bursins",
+   "country":"Switzerland",
+   "description":"Well-known fast-food chain serving grilled burgers, fries & shakes, plus breakfast",
+   "property_images":[  
+      "https://burgerkingg.s3.eu-central-1.amazonaws.com/burgerkingimage/1561030359.19055.jpg"
+   ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
+   "pincode":1183,
+   "title":"Burger King",
+   "contact":"+41 21 824 00 22",
+   "latitude":46.446781,
+   "longitude":6.2950403
+},
+{  
+   "address":"Pumpwerkstrasse 54, 8105 Regensdorf, Switzerland",
+   "city":"Regensdorf",
+   "country":"Switzerland",
+   "description":"Well-known fast-food chain serving grilled burgers, fries & shakes, plus breakfast",
+   "property_images":[  
+      "https://burgerkingg.s3.eu-central-1.amazonaws.com/burgerkingimage/1561030359.19055.jpg"
+   ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
+   "pincode":8105,
+   "title":"Burger King",
+   "contact":"+41 43 810 88 80",
+   "latitude":47.4458096,
+   "longitude":8.4613463
+}]

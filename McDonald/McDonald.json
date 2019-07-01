@@ -1,1560 +1,1920 @@
 [{  
    "address":"Bahnhofstrasse 11, 3800 Interlaken, Switzerland",
+   "city":"Interlaken",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":3800,
    "title":"McDonald’s",
-   "phone_number":"+41 33 823 53 33",
+   "contact":"+41 33 823 53 33",
    "latitude":46.684480,
    "longitude":7.853860
 },
 {  
    "address":"Pilatusstrasse 1, 6003 Luzern, Switzerland",
+   "city":"Luzern",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":6003,
    "title":"McDonald’s",
-   "phone_number":"+41 41 210 64 65",
+   "contact":"+41 41 210 64 65",
    "latitude":47.0497608,
    "longitude":8.3078757
 },
 {  
    "address":"Marktpl. 18, 4051 Basel, Switzerland",
+   "city":"Basel",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":4051,
    "title":"McDonald’s",
-   "phone_number":"+41 61 263 34 05",
+   "contact":"+41 61 263 34 05",
    "latitude":47.5579617,
-   "longitude":7.5852522
+   "longitude":7.5852766
 },
 {  
    "address":"Rue du Mont-Blanc 22, 1201 Genève, Switzerland",
+   "city":"Genève",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":1201,
    "title":"McDonald’s",
-   "phone_number":"+41 22 732 97 18",
+   "contact":"+41 22 732 97 18",
    "latitude":46.2090637,
    "longitude":6.1419493
 },
 {  
    "address":"Flughofstrasse 77, 8153 Rümlang, Switzerland",
+   "city":"Rümlang",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":8153,
    "title":"McDonald’s",
-   "phone_number":"+41 43 211 02 22",
+   "contact":"+41 43 211 02 22",
    "latitude":47.4509363,
    "longitude":8.5383836
 },
 {  
    "address":"Place du Marché 6B, 1820 Montreux, Switzerland",
+   "city":"Montreux",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":1820,
    "title":"McDonald’s",
-   "phone_number":"+41 21 965 11 45",
+   "contact":"+41 21 965 11 45",
    "latitude":46.4313473,
    "longitude":6.9070813
 },
 {  
    "address":"Via Franco Zorzi 36, 6500 Bellinzona, Switzerland",
+   "city":"Bellinzona",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":6500,
    "title":"McDonald’s",
-   "phone_number":"+41 91 826 13 68",
+   "contact":"+41 91 826 13 68",
    "latitude":46.1838327,
    "longitude":9.0103562
 },
 {  
    "address":"Autobahnraststätte Thurau Süd 927, 9523 Züberwangen, Switzerland",
+   "city":"Züberwangen",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":9523,
    "title":"McDonald’s",
-   "phone_number":"+41 71 940 08 33",
+   "contact":"+41 71 940 08 33",
    "latitude":47.459938,
    "longitude":9.0914742
 },
 {  
    "address":"Môrat CH, Grand Ferme 16, 3280 Murten, Switzerland",
+   "city":"Murten",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":3280,
    "title":"McDonald’s",
-   "phone_number":"+41 26 670 48 90",
+   "contact":"+41 26 670 48 90",
    "latitude":46.9404363,
    "longitude":7.1424758
 },
 {  
    "address":"Niederhaslistrasse 7, 8157 Dielsdorf, Switzerland",
+   "city":"Dielsdorf",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":8157,
    "title":"McDonald’s",
-   "phone_number":"+41 44 854 06 09",
+   "contact":"+41 44 854 06 09",
    "latitude":47.4835836,
    "longitude":8.4631194
 },
 {  
    "address":"Bernstrasse 226, 3052 Zollikofen, Switzerland",
+   "city":"Zollikofen",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":3052,
    "title":"McDonald’s",
-   "phone_number":"+41 31 911 76 76",
+   "contact":"+41 31 911 76 76",
    "latitude":47.0046451,
    "longitude":7.4607981
 },
 {  
    "address":"Wässeristrasse 22, 8340 Hinwil, Switzerland",
+   "city":"Hinwil",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":8340,
    "title":"McDonald’s",
-   "phone_number":"+41 43 843 71 51",
+   "contact":"+41 43 843 71 51",
    "latitude":47.305382,
    "longitude":8.8221023
 },
 {  
    "address":"Mellingerstrasse 208, 5405 Baden, Switzerland",
+   "city":"Baden",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":5405,
    "title":"McDonald’s",
-   "phone_number":"+41 56 470 32 90",
+   "contact":"+41 56 470 32 90",
    "latitude":47.4513283,
    "longitude":8.2880888
 },
 {  
    "address":"Ziegeleistrasse 40, 4242 Laufen, Switzerland",
+   "city":"Laufen",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":4242,
    "title":"McDonald’s",
-   "phone_number":"+41 61 763 15 80",
+   "contact":"+41 61 763 15 80",
    "latitude":47.4172067,
    "longitude":7.4993123
 },
 {  
    "address":"Wilerstrasse 90, 9200 Gossau, Switzerland",
+   "city":"Gossau",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":9200,
    "title":"McDonald’s",
-   "phone_number":"+41 71 383 44 15",
+   "contact":"+41 71 383 44 15",
    "latitude":47.4190079,
    "longitude":9.2329485
 },
 {  
    "address":"Blümlisalpstrasse 36, 3627 Heimberg, Switzerland",
+   "city":"Heimberg",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":3627,
    "title":"McDonald’s",
-   "phone_number":"+41 33 438 15 51",
+   "contact":"+41 33 438 15 51",
    "latitude":46.7810332,
    "longitude":7.6049155
 },
 {  
    "address":"Könizstrasse 294, 3098 Köniz, Switzerland",
+   "city":"Köniz",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":3098,
    "title":"McDonald’s",
-   "phone_number":"+41 31 974 03 25",
+   "contact":"+41 31 974 03 25",
    "latitude":46.9261292,
    "longitude":7.414194
 },
 {  
    "address":"Via Cantonale 12, 6983 Magliaso, Switzerland",
+   "city":"Magliaso",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":6983,
    "title":"McDonald’s",
-   "phone_number":"+41 91 606 61 12",
+   "contact":"+41 91 606 61 12",
    "latitude":45.9846941,
    "longitude":8.8875018
 },
 {  
    "address":"Nidfeldstrasse 14, 6010 Kriens, Switzerland",
+   "city":"Kriens",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":6010,
    "title":"McDonald’s",
-   "phone_number":"+41 41 340 63 63",
+   "contact":"+41 41 340 63 63",
    "latitude":47.0261667,
    "longitude":8.2972793
 },
 {  
    "address":"Zytgloggelaube 6, 3011 Bern, Switzerland",
+   "city":"Bern",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":3011,
    "title":"McDonald’s",
-   "phone_number":"+41 31 318 88 70",
+   "contact":"+41 31 318 88 70",
    "latitude":46.9481396,
    "longitude":7.4455253
 },
 {  
    "address":"En Chamard Yverdon Drive, 1442 Montagny-près-Yverdon, Switzerland",
+   "city":"Montagny-près-Yverdon",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":1442,
    "title":"McDonald’s",
-   "phone_number":"+41 24 446 26 00",
+   "contact":"+41 24 446 26 00",
    "latitude":46.788401,
    "longitude":6.6202294
 },
 {  
    "address":"Via Gorelle 8, 6592 Sant'Antonino, Switzerland",
+   "city":"Sant'Antonino",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":6592,
    "title":"McDonald’s",
-   "phone_number":"+41 91 840 15 00",
+   "contact":"+41 91 840 15 00",
    "latitude":46.1566828,
    "longitude":8.9711586
 },
 {  
    "address":"Bäderstrasse 16, 5400 Baden, Switzerland",
+   "city":"Baden",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":5400,
    "title":"McDonald’s",
-   "phone_number":"+41 56 222 85 88",
+   "contact":"+41 56 222 85 88",
    "latitude":47.4745333,
    "longitude":8.3061002
 },
 {  
    "address":"Industriestrasse 8, 8910 Affoltern am Albis, Switzerland",
+   "city":"Affoltern am Albis",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":8910,
    "title":"McDonald’s",
-   "phone_number":"+41 44 760 45 25",
+   "contact":"+41 44 760 45 25",
    "latitude":47.2731042,
    "longitude":8.4439688
 },
 {  
    "address":"Hertensteinstrasse 32, 6004 Luzern, Switzerland",
+   "city":"Luzern",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":6004,
    "title":"McDonald’s",
-   "phone_number":"+41 41 419 71 51",
+   "contact":"+41 41 419 71 51",
    "latitude":47.0544968,
    "longitude":8.3064914
 },
 {  
    "address":"Industriestrasse 1, Aupark, 9495 Triesen, Liechtenstein",
+   "city":"Triesen",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":9495,
    "title":"McDonald’s",
-   "phone_number":"+423 399 33 11",
+   "contact":"+423 399 33 11",
    "latitude":47.119354,
    "longitude":9.5213373
 },
 {  
    "address":"Marktpl. 18, 4051 Basel, Switzerland",
+   "city":"Basel",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":4051,
    "title":"McDonald’s",
-   "phone_number":"+41 61 263 34 05",
+   "contact":"+41 61 263 34 05",
    "latitude":47.5579617,
    "longitude":7.5852522
 },
 {  
    "address":"Via alla Sguancia 9 Lugano Pazzallo, 6915 Pambio Noranco, Switzerland",
+   "city":"Pambio Noranco",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":6915,
    "title":"McDonald’s",
-   "phone_number":"+41 91 994 44 63",
+   "contact":"+41 91 994 44 63",
    "latitude":45.9853155,
    "longitude":8.9345367
 },
 {  
    "address":"Melchnaustrasse 1, 4900 Langenthal, Switzerland",
+   "city":"Langenthal",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":4900,
    "title":"McDonald’s",
-   "phone_number":"+41 62 922 98 88",
+   "contact":"+41 62 922 98 88",
    "latitude":47.2121331,
    "longitude":7.78897
 },
 {  
    "address":"Adlikerstrasse 297, 8105 Regensdorf, Switzerland",
+   "city":"Regensdorf",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":8105,
    "title":"McDonald’s",
-   "phone_number":"+41 44 870 01 05",
+   "contact":"+41 44 870 01 05",
    "latitude":47.4440686,
    "longitude":8.4636832
 },
 {  
    "address":"Zugerstrasse 62, 6340 Baar, Switzerland",
+   "city":"Baar",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":6340,
    "title":"McDonald’s",
-   "phone_number":"+41 41 760 65 06",
+   "contact":"+41 41 760 65 06",
    "latitude":47.1853265,
    "longitude":8.5180403
 },
 {  
    "address":"Neugrütstrasse 1, 9430 St. Margrethen, Switzerland",
+   "city":"St. Margrethen",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":9430,
    "title":"McDonald’s",
-   "phone_number":"+41 71 744 81 81",
+   "contact":"+41 71 744 81 81",
    "latitude":47.4472963,
    "longitude":9.6509742
 },
 {  
    "address":"Via Angelo Maspoli 17, 6850 Mendrisio, Switzerland",
+   "city":"Mendrisio",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":6850,
    "title":"McDonald’s",
-   "phone_number":"+41 91 646 14 40",
+   "contact":"+41 91 646 14 40",
    "latitude":45.8744312,
    "longitude":8.9760418
 },
 {  
    "address":"Place de la Gare 1, 2000 Neuchâtel, Switzerland",
+   "city":"Neuchâtel",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":2000,
    "title":"McDonald’s",
-   "phone_number":"+41 81 252 55 55",
+   "contact":"+41 81 252 55 55",
    "latitude":46.9965936,
    "longitude":6.9336714
 },
 {  
    "address":"Rue de Lausanne 6, 1530 Payerne, Switzerland",
+   "city":"Payerne",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":1530,
    "title":"McDonald’s",
-   "phone_number":"+41 26 660 00 44",
+   "contact":"+41 26 660 00 44",
    "latitude":46.820675,
    "longitude":6.9340085
 },
 {  
    "address":"Rue de Lausanne Les Cygnes 18-20, 1201 Geneva, Switzerland",
+   "city":"Geneva",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":1201,
    "title":"McDonald’s",
-   "phone_number":"+41 22 738 95 87",
+   "contact":"+41 22 738 95 87",
    "latitude":46.2112595,
    "longitude":6.1424483
 },
 {  
    "address":"Nidaugasse 43, 2502 Biel, Switzerland",
+   "city":"Biel",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":2502,
    "title":"McDonald’s",
-   "phone_number":"+41 32 322 72 68",
+   "contact":"+41 32 322 72 68",
    "latitude":47.1378549,
    "longitude":7.2447418
 },
 {  
    "address":"Gewerbestrasse 2, 4450 Sissach, Switzerland",
+   "city":"Sissach",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":4450,
    "title":"McDonald’s",
-   "phone_number":"+41 61 971 95 45",
+   "contact":"+41 61 971 95 45",
    "latitude":47.4672876,
    "longitude":7.7992523
 },
 {  
    "address":"Pündtstrasse 2, 9320 Arbon, Switzerland",
+   "city":"Arbon",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":9320,
    "title":"McDonald’s",
-   "phone_number":"+41 71 446 88 11",
+   "contact":"+41 71 446 88 11",
    "latitude":47.498638,
    "longitude":9.4167846
 },
 {  
    "address":"Bäraugrundstrasse 16, 3550 Langnau im Emmental, Switzerland",
+   "city":"Langnau im Emmental",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":3550,
    "title":"McDonald’s",
-   "phone_number":"+41 34 402 82 66",
+   "contact":"+41 34 402 82 66",
    "latitude":46.9380681,
    "longitude":7.7985519
 },
 {  
    "address":"Hirschenpl. 1, 3250 Lyss, Switzerland",
+   "city":"Lyss",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":3250,
    "title":"McDonald’s",
-   "phone_number":"+41 32 385 33 80",
+   "contact":"+41 32 385 33 80",
    "latitude":47.0742715,
    "longitude":7.3045074
 },
 {  
    "address":"Iseliguet 2, 8750 Glarus, Switzerland",
+   "city":"Glarus",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":8750,
    "title":"McDonald’s",
-   "phone_number":"+41 55 650 25 00",
+   "contact":"+41 55 650 25 00",
    "latitude":47.0507982,
    "longitude":9.0565078
 },
 {  
    "address":"Hohlstrasse 467, 8048 Zürich, Switzerland",
+   "city":"Zürich",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":8048,
    "title":"McDonald’s",
-   "phone_number":"+41 44 491 49 00",
+   "contact":"+41 44 491 49 00",
    "latitude":47.3877275,
    "longitude":8.495903
 },
 {  
    "address":"Via Franco Zorzi 36, 6500 Bellinzona, Switzerland",
+   "city":"Bellinzona",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":6500,
    "title":"McDonald’s",
-   "phone_number":"+41 91 826 13 68",
+   "contact":"+41 91 826 13 68",
    "latitude":46.1838327,
    "longitude":9.0103562
 },
 {  
    "address":"Kantonsstrasse, 6036 Dierikon, Switzerland",
+   "city":"Dierikon",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":6036,
    "title":"McDonald’s",
-   "phone_number":"+41 41 450 50 50",
+   "contact":"+41 41 450 50 50",
    "latitude":47.0943346,
    "longitude":8.3604203
 },
 {  
    "address":"Wigartestrasse 4, 8957 Spreitenbach, Switzerland",
+   "city":"Spreitenbach",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":8957,
    "title":"McDonald’s",
-   "phone_number":"+41 56 401 55 33",
+   "contact":"+41 56 401 55 33",
    "latitude":47.4184132,
    "longitude":8.3717529
 },
 {  
    "address":"Route d'Englisberg 3, 1763 Granges-Paccot, Switzerland",
+   "city":"Granges-Paccot",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":1763,
    "title":"McDonald’s",
-   "phone_number":"+41 26 469 09 70",
+   "contact":"+41 26 469 09 70",
    "latitude":46.8277801,
    "longitude":7.144666
 },
 {  
    "address":"Le Flon, Rue de Genève 33, 1003 Lausanne, Switzerland",
+   "city":"Lausanne",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":1003,
    "title":"McDonald’s",
-   "phone_number":"+41 21 351 39 61",
+   "contact":"+41 21 351 39 61",
    "latitude":46.5222987,
    "longitude":6.6239008
 },
 {  
    "address":"Route de Genève 9B, 1033 Cheseaux-sur-Lausanne, Switzerland",
+   "city":"Cheseaux-sur-Lausanne",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":1033,
    "title":"McDonald’s",
-   "phone_number":"+41 21 847 00 70",
+   "contact":"+41 21 847 00 70",
    "latitude":46.5822884,
    "longitude":6.599251
 },
 {  
    "address":"Route des Perveuils 2, 2074 Marin, Switzerland",
+   "city":"Marin",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":2074,
    "title":"McDonald’s",
-   "phone_number":"+41 32 753 00 20",
+   "contact":"+41 32 753 00 20",
    "latitude":47.0130398,
    "longitude":7.0068537
 },
 {  
    "address":"Riedbachstrasse 4 Westside, 3027 Bern, Switzerland",
+   "city":"Bern",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":3027,
    "title":"McDonald’s",
-   "phone_number":"+41 31 991 27 41",
+   "contact":"+41 31 991 27 41",
    "latitude":46.943827,
    "longitude":7.3707907
 },
 {  
    "address":"Rue Saint-Laurent 20, 1003 Lausanne, Switzerland",
+   "city":"Lausanne",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":1003,
    "title":"McDonald’s Restaurant",
-   "phone_number":"+41 21 320 46 79",
+   "contact":"+41 21 320 46 79",
    "latitude":46.5224901,
    "longitude":6.6284454
 },
 {  
    "address":"Bahnhofpl. 5, 8001 Zürich, Switzerland",
+   "city":"Zürich",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":8001,
    "title":"McDonald’s",
-   "phone_number":"+41 44 211 80 70",
+   "contact":"+41 44 211 80 70",
    "latitude":47.3767005,
    "longitude":8.5381606
 },
 {  
    "address":"Bahnhofstrasse 12, 3920 Zermatt, Switzerland",
+   "city":"Zermatt",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":3920,
    "title":"McDonald’s",
-   "phone_number":"+41 27 967 64 65",
+   "contact":"+41 27 967 64 65",
    "latitude":46.0229397,
    "longitude":7.7452083
 },
 {  
    "address":"Route des Rottes, 1964 Conthey, Switzerland",
+   "city":"Conthey",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":1964,
    "title":"McDonald’s",
-   "phone_number":"+41 27 346 26 86",
+   "contact":"+41 27 346 26 86",
    "latitude":46.2228027,
    "longitude":7.293506
 },
 {  
    "address":"Rue du Mont-Blanc 22, 1201 Genève, Switzerland",
+   "city":"Genève",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":1201,
    "title":"McDonald’s",
-   "phone_number":"+41 22 732 97 18",
+   "contact":"+41 22 732 97 18",
    "latitude":46.2090637,
    "longitude":6.1419493
 },
 {  
    "address":"Langstrasse 201, 8005 Zürich, Switzerland",
+   "city":"Zürich",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":8005,
    "title":"McDonald’s",
-   "phone_number":"+41 44 273 15 16",
+   "contact":"+41 44 273 15 16",
    "latitude":47.3829174,
    "longitude":8.5277694
 },
 {  
    "address":"Tessinerpl. 10, 8002 Zürich, Switzerland",
+   "city":"Zürich",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":8002,
    "title":"McDonald’s",
-   "phone_number":"+41 44 280 09 42",
+   "contact":"+41 44 280 09 42",
    "latitude":47.364912,
    "longitude":8.5292096
 },
 {  
    "address":"Bahnhofstrasse 21, 9470 Buchs, Switzerland",
+   "city":"Buchs",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":9470,
    "title":"McDonald’s",
-   "phone_number":"+41 81 750 00 99",
+   "contact":"+41 81 750 00 99",
    "latitude":47.1665378,
    "longitude":9.4738036
 },
 {  
    "address":"Kirchbergstrasse 237, 3400 Burgdorf, Switzerland",
+   "city":"Burgdorf",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":3400,
    "title":"McDonald’s",
-   "phone_number":"+41 34 422 32 88",
+   "contact":"+41 34 422 32 88",
    "latitude":47.0687788,
    "longitude":7.5981519
 },
 {  
    "address":"Barfüsserpl. 9, 4051 Basel, Switzerland",
+   "city":"Basel",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":4051,
    "title":"McDonald’s",
-   "phone_number":"+41 61 271 90 33",
+   "contact":"+41 61 271 90 33",
    "latitude":47.5542688,
    "longitude":7.5865363
 },
 {  
    "address":"Bernstrasse Ost 51, 5034 Suhr, Switzerland",
+   "city":"Suhr",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":5034,
    "title":"McDonald’s",
-   "phone_number":"+41 62 842 66 88",
+   "contact":"+41 62 842 66 88",
    "latitude":47.3727397,
    "longitude":8.0809459
 },
 {  
    "address":"Dunantstrasse 6, 8570 Weinfelden, Switzerland",
+   "city":"Weinfelden",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":8570,
    "title":"McDonald’s",
-   "phone_number":"+41 71 620 31 70",
+   "contact":"+41 71 620 31 70",
    "latitude":47.5680576,
    "longitude":9.0914896
 },
 {  
    "address":"Romanshornerstrasse 120, 8280 Kreuzlingen, Switzerland",
+   "city":"Kreuzlingen",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":8280,
    "title":"McDonald’s",
-   "phone_number":"+41 71 688 70 70",
+   "contact":"+41 71 688 70 70",
    "latitude":47.6391787,
    "longitude":9.1985273
 },
 {  
    "address":"Route de l'Industrie 10B, 1163 Etoy, Switzerland",
+   "city":"Etoy",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":1163,
    "title":"McDonald’s",
-   "phone_number":"+41 21 807 47 47",
+   "contact":"+41 21 807 47 47",
    "latitude":46.4745447,
    "longitude":6.4222682
 },
 {  
    "address":"Friedaustrasse 8, 8952 Schlieren, Switzerland",
+   "city":"Schlieren",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":8952,
    "title":"McDonald’s",
-   "phone_number":"+41 44 730 34 34",
+   "contact":"+41 44 730 34 34",
    "latitude":47.401842,
    "longitude":8.448855
 },
 {  
    "address":"BEO-Center, Simmentalstrasse 50, 3700 Spiez, Switzerland",
+   "city":"Spiez",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":3700,
    "title":"McDonald’s",
-   "phone_number":"+41 33 654 50 20",
+   "contact":"+41 33 654 50 20",
    "latitude":46.6846944,
    "longitude":7.6661411
 },
 {  
    "address":"Widenholzstrasse 2, 8305 Dietlikon, Switzerland",
+   "city":"Dietlikon",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":8305,
    "title":"McDonald’s",
-   "phone_number":"+41 44 833 14 25",
+   "contact":"+41 44 833 14 25",
    "latitude":47.4121291,
    "longitude":8.6134343
 },
 {  
    "address":"Schanzenstrasse 4b, 3008 Bern, Switzerland",
+   "city":"Bern",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":3008,
    "title":"McDonald’s",
-   "phone_number":"+41 31 311 87 42",
+   "contact":"+41 31 311 87 42",
    "latitude":46.9484257,
    "longitude":7.4351809
 },
 {  
    "address":"Fischmarktpl. 7, 8640 Rapperswil-Jona, Switzerland",
+   "city":"Rapperswil-Jona",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":8640,
    "title":"McDonald’s",
-   "phone_number":"+41 55 210 19 82",
+   "contact":"+41 55 210 19 82",
    "latitude":47.2255975,
    "longitude":8.8139116
 },
 {  
    "address":"Schwarzwaldallee 183 Badischer Bahnhof, 4058 Basel, Switzerland",
+   "city":"Basel",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":4058,
    "title":"McDonald’s",
-   "phone_number":"+41 61 692 48 38",
+   "contact":"+41 61 692 48 38",
    "latitude":47.5666583,
    "longitude":7.6043357
 },
 {  
    "address":"Route des Jeunes 9, 1227 Carouge, Switzerland",
+   "city":"Carouge",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":1227,
    "title":"McDonald’s",
-   "phone_number":"+41 22 301 99 11",
+   "contact":"+41 22 301 99 11",
    "latitude":46.1879683,
    "longitude":6.1263464
 },
 {  
    "address":"Rue de Romont 15, 1700 Fribourg, Switzerland",
+   "city":"Fribourg",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":1700,
    "title":"McDonald’s",
-   "phone_number":"+41 26 322 47 77",
+   "contact":"+41 26 322 47 77",
    "latitude":46.8048402,
    "longitude":7.1526179
 },
 {  
    "address":"Untertor 37, 8400 Winterthur, Switzerland",
+   "city":"Winterthur",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":8400,
    "title":"McDonald’s",
-   "phone_number":"+41 52 212 02 21",
+   "contact":"+41 52 212 02 21",
    "latitude":47.4991262,
    "longitude":8.7223315
 },
 {  
    "address":"Auto Centre, Avenue Louis-Casaï 11 Balexert, 1209 Geneva, Switzerland",
+   "city":"Geneva",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":1209,
    "title":"McDonald’s",
-   "phone_number":"+41 22 796 47 07",
+   "contact":"+41 22 796 47 07",
    "latitude":46.2180167,
    "longitude":6.1127036
 },
 {  
    "address":"Rue du Marché 9-11 Passage Malbuisson, 1204 Geneva, Switzerland",
+   "city":"Geneva",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":1204,
    "title":"McDonald’s",
-   "phone_number":"+41 22 310 20 70",
+   "contact":"+41 22 310 20 70",
    "latitude":46.2036593,
    "longitude":6.1445014
 },
 {  
    "address":"Bruderholzstrasse 41, 4142 Münchenstein, Switzerland",
+   "city":"Münchenstein",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":4142,
    "title":"McDonald’s",
-   "phone_number":"+41 61 411 81 81",
+   "contact":"+41 61 411 81 81",
    "latitude":47.525947,
    "longitude":7.6020804
 },
 {  
    "address":"Centre Commercial, Rue d'Orbe 1, 1400 Yverdon-les-Bains, Switzerland",
+   "city":"Yverdon-les-Bains",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":1400,
    "title":"McDonald’s",
-   "phone_number":"+41 24 426 50 22",
+   "contact":"+41 24 426 50 22",
    "latitude":46.7803351,
    "longitude":6.6340259
 },
 {  
    "address":"Seestrasse 200, 8820 Wädenswil, Switzerland",
+   "city":"Wädenswil",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":8820,
    "title":"McDonald’s",
-   "phone_number":"+41 44 780 92 42",
+   "contact":"+41 44 780 92 42",
    "latitude":47.2382077,
    "longitude":8.6579003
 },
 {  
    "address":"Restoroute Rose de la Broye A1/E25, 1470 Lully, Switzerland",
+   "city":"Lully",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":1470,
    "title":"McDonald’s",
-   "phone_number":"+41 26 663 47 13",
+   "contact":"+41 26 663 47 13",
    "latitude":46.8318336,
    "longitude":6.8566343
 },
 {  
    "address":"Z.A. Pré du Pont 105, 1868 Collombey-Muraz, Switzerland",
+   "city":"Collombey-Muraz",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":1868,
    "title":"McDonald’s",
-   "phone_number":"+41 24 472 90 10",
+   "contact":"+41 24 472 90 10",
    "latitude":46.2674847,
    "longitude":6.9516313
 },
 {  
    "address":"Bahnhofstrasse 17, 3930 Visp, Switzerland",
+   "city":"Visp",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":3930,
    "title":"McDonald’s",
-   "phone_number":"+41 27 946 85 20",
+   "contact":"+41 27 946 85 20",
    "latitude":46.2923994,
    "longitude":7.8792313
 },
 {  
    "address":"Hauptbahnhof Unterführung, 3011 Bern, Switzerland",
+   "city":"Bern",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":3011,
    "title":"McDonald’s",
-   "phone_number":"+41 31 318 07 50",
+   "contact":"+41 31 318 07 50",
    "latitude":46.9486904,
    "longitude":7.438111
 },
 {  
    "address":"Zürcherstrasse 50, 8406 Winterthur, Switzerland",
+   "city":"Winterthur",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":8406,
    "title":"McDonald’s",
-   "phone_number":"+41 52 214 07 47",
+   "contact":"+41 52 214 07 47",
    "latitude":47.495322,
    "longitude":8.7099829
 },
 {  
    "address":"Bohl 9, 9000 St. Gallen, Switzerland",
+   "city":"St. Gallen",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":9000,
    "title":"McDonald’s",
-   "phone_number":"+41 71 223 82 70",
+   "contact":"+41 71 223 82 70",
    "latitude":47.4266793,
    "longitude":9.3747142
 },
 {  
    "address":"Avenue de la Gare 5, 1920 Martigny, Switzerland",
+   "city":"Martigny",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":1920,
    "title":"McDonald’s",
-   "phone_number":"+41 27 722 30 30",
+   "contact":"+41 27 722 30 30",
    "latitude":46.1021975,
    "longitude":7.0716933
 },
 {  
    "address":"Vorstadt 19, 8200 Schaffhausen, Switzerland",
+   "city":"Schaffhausen",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":8200,
    "title":"McDonald’s",
-   "phone_number":"+41 52 624 37 20",
+   "contact":"+41 52 624 37 20",
    "latitude":47.698179,
    "longitude":8.631753
 },
 {  
    "address":"Avenue de la Gare 3, 1950 Sion, Switzerland",
+   "city":"Sion",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":1950,
    "title":"McDonald’s",
-   "phone_number":"+41 27 323 66 00",
+   "contact":"+41 27 323 66 00",
    "latitude":46.2282678,
    "longitude":7.3566418
 },
 {  
    "address":"Rue de Dardens 2, 1630 Bulle, Switzerland",
+   "city":"Bulle",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":1630,
    "title":"McDonald’s",
-   "phone_number":"+41 26 913 93 53",
+   "contact":"+41 26 913 93 53",
    "latitude":46.6273233,
    "longitude":7.0570349
 },
 {  
    "address":"Rue de l'Hôpital 20, 2000 Neuchâtel, Switzerland",
+   "city":"Neuchâtel",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":2000,
    "title":"McDonald’s",
-   "phone_number":"+41 32 724 10 34",
+   "contact":"+41 32 724 10 34",
    "latitude":46.9919686,
    "longitude":6.92724
 },
 {  
    "address":"Bahnhofstrasse 5-7, 5000 Aarau, Switzerland",
+   "city":"Aarau",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":5000,
    "title":"McDonald’s",
-   "phone_number":"+41 62 824 18 18",
+   "contact":"+41 62 824 18 18",
    "latitude":47.3906879,
    "longitude":8.0434977
 },
 {  
    "address":"Kirchgasse 1, 4600 Olten, Switzerland",
+   "city":"Olten",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":4600,
    "title":"McDonald’s",
-   "phone_number":"+41 62 212 91 21",
+   "contact":"+41 62 212 91 21",
    "latitude":47.3498056,
    "longitude":7.9001201
 },
 {  
    "address":"Badenerstrasse 21, 8004 Zürich, Switzerland",
+   "city":"Zürich",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":8004,
    "title":"McDonald’s",
-   "phone_number":"+41 44 242 15 55",
+   "contact":"+41 44 242 15 55",
    "latitude":47.3734389,
    "longitude":8.5276532
 },
 {  
    "address":"Chemin de la Fontaine 10 Drive, 1260 Nyon, Switzerland",
+   "city":"Nyon",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":1260,
    "title":"McDonald’s",
-   "phone_number":"+41 22 361 96 69",
+   "contact":"+41 22 361 96 69",
    "latitude":46.3878242,
    "longitude":6.2173158
 },
 {  
    "address":"Hofwiesenstrasse 350/354, 8050 Zurigo, Switzerland",
+   "city":"Zurigo",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":8050,
    "title":"McDonald’s",
-   "phone_number":"+41 44 312 41 11",
+   "contact":"+41 44 312 41 11",
    "latitude":47.4107173,
    "longitude":8.5410236
 },
 {  
    "address":"Pré-de-la-Croix 11, 1847 Rennaz, Switzerland",
+   "city":"Rennaz",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":1847,
    "title":"McDonald’s",
-   "phone_number":"+41 21 968 13 06",
+   "contact":"+41 21 968 13 06",
    "latitude":46.3841847,
    "longitude":6.9194993
 },
 {  
    "address":"Place de la Gare 2, 1110 Morges, Switzerland",
+   "city":"Morges",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":1110,
    "title":"McDonald’s",
-   "phone_number":"+41 21 802 64 60",
+   "contact":"+41 21 802 64 60",
    "latitude":46.5108586,
    "longitude":6.4941908
 },
 {  
    "address":"Bälliz 22, 3600 Thun, Switzerland",
+   "city":"Thun",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":3600,
    "title":"McDonald’s",
-   "phone_number":"+41 33 223 51 51",
+   "contact":"+41 33 223 51 51",
    "latitude":46.7593715,
    "longitude":7.6243712
 },
 {  
    "address":"Flughafenstrasse 3, 8060 Kloten, Switzerland",
+   "city":"Kloten",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":8060,
    "title":"McDonald’s",
-   "phone_number":"+41 43 305 28 00",
+   "contact":"+41 43 305 28 00",
    "latitude":47.4501415,
    "longitude":8.5607837
 },
 {  
    "address":"Place de la Gare 4, 1003 Lausanne, Switzerland",
+   "city":"Lausanne",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":1003,
    "title":"McDonald’s",
-   "phone_number":"+41 21 320 48 51",
+   "contact":"+41 21 320 48 51",
    "latitude":46.517579,
    "longitude":6.6271176
 },
 {  
    "address":"Place du Marché 6B, 1820 Montreux, Switzerland",
+   "city":"Montreux",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":1820,
    "title":"McDonald’s",
-   "phone_number":"+41 21 965 11 45",
+   "contact":"+41 21 965 11 45",
    "latitude":46.4313473,
    "longitude":6.9070813
 },
 {  
    "address":"Centralbahnstrasse 13, 4051 Basel, Switzerland",
+   "city":"Basel",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":4051,
    "title":"McDonald’s",
-   "phone_number":"+41 61 272 83 00",
+   "contact":"+41 61 272 83 00",
    "latitude":47.5475421,
    "longitude":7.5885939
 },
 {  
    "address":"Bildstrasse 2, 9015 St. Gallen, Switzerland",
+   "city":"St. Gallen",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":9015,
    "title":"McDonald’s",
-   "phone_number":"+41 71 311 63 30",
+   "contact":"+41 71 311 63 30",
    "latitude":47.4144815,
    "longitude":9.3089185
 },
 {  
    "address":"Löwenstrasse 53, 8001 Zürich, Switzerland",
+   "city":"Zürich",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":8001,
    "title":"McDonald’s",
-   "phone_number":"+41 44 210 14 07",
+   "contact":"+41 44 210 14 07",
    "latitude":47.3764544,
    "longitude":8.5353336
 },
 {  
    "address":"Schützenweg 2, 4528 Zuchwil, Switzerland",
+   "city":"Zuchwil",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":4528,
    "title":"McDonald’s",
-   "phone_number":"+41 32 685 24 27",
+   "contact":"+41 32 685 24 27",
    "latitude":47.2018185,
    "longitude":7.5695196
 },
 {  
    "address":"Aeussere Luzernerstrasse 13, 4665 Oftringen, Switzerland",
+   "city":"Oftringen",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":4665,
    "title":"McDonald’s",
-   "phone_number":"+41 62 797 76 76",
+   "contact":"+41 62 797 76 76",
    "latitude":47.2980195,
    "longitude":7.9336377
 },
 {  
    "address":"Riva Giocondo Albertolli 1, 6900 Lugano, Switzerland",
+   "city":"Lugano",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":6900,
    "title":"McDonald’s",
-   "phone_number":"+41 91 924 92 39",
+   "contact":"+41 91 924 92 39",
    "latitude":46.0036864,
    "longitude":8.9516886
 },
 {  
    "address":"Rue de Bourg 47-49, 1003 Lausanne, Switzerland",
+   "city":"Lausanne",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":1003,
    "title":"McDonald’s",
-   "phone_number":"+41 21 311 00 22",
+   "contact":"+41 21 311 00 22",
    "latitude":46.5201341,
    "longitude":6.6342655
 },
 {  
    "address":"Neuengasse 24, 3011 Bern, Switzerland",
+   "city":"Bern",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":3011,
    "title":"McDonald’s",
-   "phone_number":"+41 31 311 27 22",
+   "contact":"+41 31 311 27 22",
    "latitude":46.9491676,
    "longitude":7.4396768
 },
 {  
    "address":"CC St. Antoine, Avenue du Général-Guisan 15, 1800 Vevey, Switzerland",
+   "city":"Vevey",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":1800,
    "title":"McDonald’s",
-   "phone_number":"+41 21 923 56 14",
+   "contact":"+41 21 923 56 14",
    "latitude":46.4628678,
    "longitude":6.839044
 },
 {  
    "address":"Oltnerstrasse 502, 4622 Egerkingen, Switzerland",
+   "city":"Egerkingen",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":4622,
    "title":"McDonald’s",
-   "phone_number":"+41 62 398 08 08",
+   "contact":"+41 62 398 08 08",
    "latitude":47.3235126,
    "longitude":7.8029943
 },
 {  
    "address":"Gottfried-Keller-Strasse 7, 8001 Zürich, Switzerland",
+   "city":"Zürich",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":8001,
    "title":"McDonald’s",
-   "phone_number":"+41 43 343 97 11",
+   "contact":"+41 43 343 97 11",
    "latitude":47.3664886,
    "longitude":8.5454267
 },
 {  
    "address":"Muralto, Via della Stazione 1, 6600 Locarno, Switzerland",
+   "city":"Locarno",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":6600,
    "title":"McDonald’s",
-   "phone_number":"+41 91 744 66 06",
+   "contact":"+41 91 744 66 06",
    "latitude":46.1715199,
    "longitude":8.7976717
 },
 {  
    "address":"Dornacherstrasse 28, 4500 Solothurn, Switzerland",
+   "city":"Solothurn",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":4500,
    "title":"McDonald’s",
-   "phone_number":"+41 32 621 80 88",
+   "contact":"+41 32 621 80 88",
    "latitude":47.2040656,
    "longitude":7.5393803
 },
 {  
    "address":"Toggenburgerstrasse 154, 9500 Wil, Switzerland",
+   "city":"Wil",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":9500,
    "title":"McDonald’s",
-   "phone_number":"+41 71 925 35 01",
+   "contact":"+41 71 925 35 01",
    "latitude":47.4532716,
    "longitude":9.0470179
 },
 {  
    "address":"Rue de la Potence 2, 3960 Sierre, Switzerland",
+   "city":"Sierre",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":3960,
    "title":"McDonald’s",
-   "phone_number":"+41 27 456 41 80",
+   "contact":"+41 27 456 41 80",
    "latitude":46.2826487,
    "longitude":7.5111626
 },
 {  
    "address":"Kantonsstrasse 288, 3902 Brig, Switzerland",
+   "city":"Brig",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":3902,
    "title":"McDonald’s",
-   "phone_number":"+41 27 924 47 29",
+   "contact":"+41 27 924 47 29",
    "latitude":46.3064017,
    "longitude":7.9591093
 },
 {  
    "address":"Route de l'Aéroport 13, 1215 Genève, Switzerland",
+   "city":"Genève",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":1215,
    "title":"McDonald’s",
-   "phone_number":"+41 22 817 46 57",
+   "contact":"+41 22 817 46 57",
    "latitude":46.2306253,
    "longitude":6.1052365
 },
 {  
    "address":"Rond-Point de Plainpalais 1, 1205 Genève, Switzerland",
+   "city":"Genève",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":1205,
    "title":"McDonald’s",
-   "phone_number":"+41 22 320 71 10",
+   "contact":"+41 22 320 71 10",
    "latitude":46.1983573,
    "longitude":6.140566
 },
 {  
    "address":"Cours de Rive 3, 1204 Genève, Switzerland",
+   "city":"Genèvess",
    "country":"Switzerland",
    "description":"Classic, long-running fast-food chain known for its burgers, fries & shakes",
-   "property_image":[  
-      "https://mcdonalddata.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
+   "property_images":[  
+      "https://mcdonaldd.s3.eu-central-1.amazonaws.com/mcdonaldimage/1560751662.851576.png"
    ],
+   "building_name":"__NA__",
+   "landmark":"__NA__",
    "pincode":1204,
    "title":"McDonald’s",
-   "phone_number":"+41 22 311 85 75",
+   "contact":"+41 22 311 85 75",
    "latitude":46.2019655,
    "longitude":6.1504831
 }]
